@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+button {
+  background: #4605ff;
+  color: #fff;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+video {
+  width: 525px;
+  height: 400px;
+  display: block;
+  margin: 3rem auto;
+}
+
+#screenshots {
+  display: flex;
+  justify-content: center;
+}
+
+#screenshots img {
+  max-width: 100%;
+  width: 17rem;
+  margin-right: 1.5rem;
+  border-radius: 4px;
+}
