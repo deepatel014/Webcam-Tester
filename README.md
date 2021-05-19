@@ -1,4 +1,5 @@
 #A Webcam Tester
-https://github.com/deepatel014/Webcam-Tester
+
+https://deepatel014.github.io/Webcam-Tester/
 
 Preffered Browser : Google Chrome
