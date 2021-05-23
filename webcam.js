@@ -25,3 +25,11 @@ const takeScreenshot = () => {
         screenshotEL.appendChild(img)
     })
 }
+
+function invertCam() {
+    
+      document.getElementById("webcam-vid").classList.add('videoElement');
+    
+     
+   
+}
